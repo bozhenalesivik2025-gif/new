@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\u0438\u0433\u0440\u0443\u0448\u043A\u0430\\lab_5.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67E292C4-6D9B-46C8-AB8B-163A61D119D6}|lab_5.3\\lab_5.3.vcxproj|C:\\Users\\Admin\\Desktop\\\u0438\u0433\u0440\u0443\u0448\u043A\u0430\\lab_5.3\\lab_5.3\\lab_5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67E292C4-6D9B-46C8-AB8B-163A61D119D6}|lab_5.3\\lab_5.3.vcxproj|solutionrelative:lab_5.3\\lab_5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28176004-CF04-40BD-6580-B77970489C1C}|UnitTest53\\UnitTest53.vcxproj|C:\\Users\\Admin\\Desktop\\\u0438\u0433\u0440\u0443\u0448\u043A\u0430\\lab_5.3\\UnitTest53\\UnitTest53.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28176004-CF04-40BD-6580-B77970489C1C}|UnitTest53\\UnitTest53.vcxproj|solutionrelative:UnitTest53\\UnitTest53.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest53.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0438\u0433\u0440\u0443\u0448\u043A\u0430\\lab_5.3\\UnitTest53\\UnitTest53.cpp",
+              "RelativeDocumentMoniker": "UnitTest53\\UnitTest53.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0438\u0433\u0440\u0443\u0448\u043A\u0430\\lab_5.3\\UnitTest53\\UnitTest53.cpp",
+              "RelativeToolTip": "UnitTest53\\UnitTest53.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-17T10:52:04.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab_5.3.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u0438\u0433\u0440\u0443\u0448\u043A\u0430\\lab_5.3\\lab_5.3\\lab_5.3.cpp",
+              "RelativeDocumentMoniker": "lab_5.3\\lab_5.3.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u0438\u0433\u0440\u0443\u0448\u043A\u0430\\lab_5.3\\lab_5.3\\lab_5.3.cpp",
+              "RelativeToolTip": "lab_5.3\\lab_5.3.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-17T10:38:18.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
